@@ -35,10 +35,10 @@ A full-stack eCommerce application built with React And Node Js. The project aim
   - Tailwind Css.
 
 - Backend:
-  - Spring Boot: Java framework for building robust and scalable backend applications.
-  - Spring Security: Authentication and authorization for the API endpoints.
-  - Spring Data JPA: Database access and ORM tool.
-  - MySQL : Database to store application data.
+  - Node.js: A JavaScript runtime that enables server-side execution of JavaScript code.
+  - Express.js: A lightweight framework for building web applications and APIs in Node.js.
+  - JSON Web Token (JWT): A secure method for transmitting information as a JSON object between parties, often used for authentication.
+  - MongoDB: A flexible NoSQL database that stores data in JSON-like documents, ideal for handling unstructured data.
 
 ## Installation
 
