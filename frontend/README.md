@@ -6,9 +6,6 @@
 
 A full-stack eCommerce application built with React and Spring Boot And Node Js. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options.
 
-## Server
-###### spring boot: https://github.com/ashok0001/e-commerce-server
-###### node js: https://github.com/ashok0001/ecommerce-node
 
 ## Table of Contents
 
@@ -32,10 +29,6 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 - Order history and tracking.
 - Admin panel to manage products, categories, and orders.
 
-## Demo
-
-[shopwithzosh](https://shopwithzosh.vercel.app/)
-
 ## Technologies Used
 
 - Frontend:
@@ -54,12 +47,10 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 
 ## Installation
 
-1. Clone Frontend repository: `git clone https://github.com/ashok0001/e-commerce-server.git`
-2. Clone Backend Repository: `git clone https://github.com/ashok0001/e-commerce-server.git`
-3. Change directory Frontend:`cd shopwithzosh`
-4. Change directory Backend: `cd e-commerce-server`
-5. Install frontend dependencies: `npm install`
-6. Install backend dependencies
+1. Change directory Frontend
+2. Install frontend dependencies: `npm install`
+3. Change directory Backend
+4. Install backend dependencies: `npm install`
 
 ## Usage
 
@@ -71,9 +62,6 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 
 List the available API endpoints along with their descriptions and the necessary request and response formats.
 
-Example:
-
-[Checkout All Endpoints Here...](https://e-commerce-server-production-0873.up.railway.app/swagger-ui/index.html)
 
 ## Contributing
 
@@ -83,15 +71,6 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or suggestions, feel free to contact me:
-
-- Ashok Zarmariya
-- ashokzarmariya47@gmail.com
-- [Linkedin](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
-
-Feel free to customize the README to include more specific information about your project. Good luck with your eCommerce full-stack application!
 
 ## ScreenShots
 
