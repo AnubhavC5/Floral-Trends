@@ -10,15 +10,10 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-- [Screenshots](#screenshots)
 
 ## Features
 
@@ -57,15 +52,6 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 1. Start the frontend application: `npm start`
 2. Start the backend server:`npm run dev`
 3. Access the application at `http://localhost:3000` in your web browser.
-
-## API Endpoints
-
-List the available API endpoints along with their descriptions and the necessary request and response formats.
-
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or want to add new features, please submit an issue or create a pull request.
 
 ## License
 
