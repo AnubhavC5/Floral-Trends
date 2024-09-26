@@ -1,8 +1,8 @@
 const mongoose = require("mongoose")
 
-const mongoDbUrl='mongodb+srv://codewithzosh:lognBCBmtWNPjrKC@cluster0.wvt9jpw.mongodb.net/?retryWrites=true&w=majority'
+const mongo_URL='mongodb+srv://anubhav5:Anubhav123@cluster0.iqgyg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 const connectDb=()=>{
-    return mongoose.connect(mongoDbUrl)
+    return mongoose.connect(mongo_URL)
 }
 
 module.exports={connectDb}
