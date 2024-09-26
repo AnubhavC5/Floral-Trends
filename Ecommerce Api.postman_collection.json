@@ -22,7 +22,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"firstName\":\"Anubhav\",\r\n    \"lastName\":\"Code\",\r\n    \"email\":\"anubhavchaurasia.ac5@gmail.com\",\r\n    \"password\":\"12345678\"\r\n   \r\n}",
+					"raw": "{\r\n    \"firstName\":\"Anubhav\",\r\n    \"lastName\":\"Chaurasia\",\r\n    \"email\":\"anubhavchaurasia.ac5@gmail.com\",\r\n    \"password\":\"12345678\"\r\n   \r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
